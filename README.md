@@ -16,12 +16,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<!--- Bahagian ini akan memaparkan statistik akaun GitHub anda secara automatik --->
-![Profil GitHub Athirah](https://github-readme-stats.vercel.app/api?username=NAMA_USERNAME_ANDA&show_icons=true&theme=radial)
-
----
-
 ### ⚡ Fakta Menarik
 - 💡 Saya suka menyelesaikan masalah menggunakan data.
 

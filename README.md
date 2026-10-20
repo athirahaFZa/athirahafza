@@ -5,7 +5,7 @@
 - 🔭 Saya baru memulakan perjalanan dalam dunia pengaturcaraan dan pengurusan data.
 - 🌱 Saya sedang mempelajari asas: **Python, SQL, HTML/CSS, dan Git/GitHub**.
 - 📊 Minat saya: **Analisis Data, Visualisasi Data, dan Sains Data**.
-- 📫 Hubungi saya di: **[E-mel anda di sini]** / **[LinkedIn anda di sini]**
+- 📫 Hubungi saya di: athirahafza@gmail.com
 
 ---
 
@@ -24,4 +24,4 @@
 
 ### ⚡ Fakta Menarik
 - 💡 Saya suka menyelesaikan masalah menggunakan data.
-- ☕ Pengendali asas untuk saya terus belajar: **[Kopi/Teh/Muzik/Hobi anda]**
+

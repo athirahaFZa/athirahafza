@@ -1,7 +1,7 @@
 # Hi, saya Nur Athirah Afza 👋
 
 ### 👩‍💻 Berkenaan Saya
-- 🎓 Saya seorang pelajar yang baru berkjinak-jinak dalam dunia pengaturcaraan dan GitHub.
+- 🎓 Saya seorang pelajar yang baru berjinak-jinak dalam dunia pengaturcaraan dan GitHub.
 - 🔭 Saat ini saya sedang mempelajari: **[Bahasa/Topik yang anda belajar, contoh: HTML, CSS, Python]**
 - 🌱 Target saya seterusnya: **[Contoh: Membina projek web pertama / Belajar JavaScript]**
 - 💬 Tanya saya tentang: **[Sesuatu yang anda suka / topik pembelajaran]**
